@@ -8,11 +8,11 @@ Intro
 
 There are 3 parts to Operating First
 
-1 Operate First is a concept of bringing pre-release open source software to a production cloud environment.
+1. Operate First is a concept of bringing pre-release open source software to a production cloud environment.
 
-2.The Open Infrastructure Labs is the upstream where the cloud operators and project developers work in the open to Operate First.
+2. The Open Infrastructure Labs is the upstream where the cloud operators and project developers work in the open to Operate First.
 
-3.The Mass Open Cloud (MOC) is the production cloud resource where projects are run.
+3. The Mass Open Cloud (MOC) is the production cloud resource where projects are run.
 
 First off - understand the environment
 
