@@ -14,21 +14,21 @@ There are 3 parts to Operating First
 
 First off - understand the environment
 
-   There are a few basic things that need to be understood about the Operate First environment at the MOC:
+-There are a few basic things that need to be understood about the Operate First environment at the MOC:
 
-   Operate First is an open source initiative. It’s about operating your project software in the open in a production cloud environment.
+-Operate First is an open source initiative. It’s about operating your project software in the open in a production cloud environment.
 
-   Operating at the MOC never implies that any feature or software will ship. Thus a new feature that is being considered can be tested without any implied commitment.
+-Operating at the MOC never implies that any feature or software will ship. Thus a new feature that is being considered can be tested without any implied commitment.
 
-   Open Infrastructure Labs is an open source upstream aimed at cloud providers and operators and that is where much of the operate first work is being done. 
+-Open Infrastructure Labs is an open source upstream aimed at cloud providers and operators and that is where much of the operate first work is being done. 
 
-   While a production cloud, the MOC is taking in pre-release software, and thus stability is not guaranteed, and should not be expected. No backup of user data is made. There is no SLA.
+-While a production cloud, the MOC is taking in pre-release software, and thus stability is not guaranteed, and should not be expected. No backup of user data is made. There is no SLA.
 
-   It’s free, but the cost is commitment. The MOC is not a place to bring a project and then leave. It’s expected that the developers will actively participate with the operators whenever needed and be available to help sort out issues.
+-It’s free, but the cost is commitment. The MOC is not a place to bring a project and then leave. It’s expected that the developers will actively participate with the operators whenever needed and be available to help sort out issues.
 
-   The benefit to project developers is bridging back what’s learned to improve their project. 
+-The benefit to project developers is bridging back what’s learned to improve their project. 
 
-   Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
+-Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
 
 Observing
 
