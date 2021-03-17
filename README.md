@@ -1,10 +1,10 @@
-# operate-first-workloads
+### operate-first-workloads
 
 This readme contains a getting started guide to Operate First.
 
 If you are interested in bringing your project to the Operate First Environment at the Mass Open Cloud (MOC) you have come to the right place. Below is important information and instructions on how to get started.
 
-# There are 3 parts to Operating First
+### There are 3 parts to Operating First
 
 1. Operate First is a concept of bringing pre-release open source software to a production cloud environment.
 
@@ -12,7 +12,7 @@ If you are interested in bringing your project to the Operate First Environment 
 
 3. The Mass Open Cloud (MOC) is the production cloud resource where projects are run.
 
-# First off - understand the environment
+### First off - understand the environment
 
 -There are a few basic things that need to be understood about the Operate First environment at the MOC:
 
@@ -30,7 +30,7 @@ If you are interested in bringing your project to the Operate First Environment 
 
 -Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
 
-# Observing
+### Observing
 
 Projects are expected to work with the ops team in the open in github https://github.com/open-infrastructure-labs
 There is also work done to manage the infrastructure that can be found in the Open Infrastructure Labs project https://github.com/open-infrastructure-labs
@@ -43,7 +43,7 @@ Open Infrastructure Labs also has a mailing list: Openinfralabs http://lists.ope
 You can view a dashboard in the OI Labs github to see an overview of what’s happening https://github.com/orgs/open-infrastructure-labs/projects/2
 
 
-# Bring your project
+### Bring your project
 
 To get connected and bring your project to the MOC, first bring it to the “MOC Operate First Project Coordination meeting”, which is held on alternate Wednesday’s 8AM US Eastern time. Contact Bill Burns for an invite (bburns@redhat.com).
 
