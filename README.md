@@ -1,6 +1,6 @@
 ### operate-first-workloads
 
-This readme contains a getting started guide to Operate First.
+#### This readme contains a getting started guide to Operate First.
 
 If you are interested in bringing your project to the Operate First Environment at the Mass Open Cloud (MOC) you have come to the right place. Below is important information and instructions on how to get started.
 
