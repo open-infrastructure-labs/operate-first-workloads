@@ -28,7 +28,7 @@ There are a few basic things that need to be understood about the Operate First 
 
 - The benefit to project developers is bridging back what’s learned to improve their project. 
 
--Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
+- Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
 
 ### Observing
 
