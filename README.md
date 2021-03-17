@@ -1,4 +1,4 @@
-### operate-first-workloads
+### operate first workloads
 
 #### This readme contains a getting started guide to Operate First.
 
@@ -36,7 +36,7 @@ Projects are expected to work with the ops team in the open in github https://gi
 There is also work done to manage the infrastructure that can be found in the Open Infrastructure Labs project https://github.com/open-infrastructure-labs
 
 To see what’s happening right now, chat is done on google chat in a room called “Operate First Ops”. 
-You may need a specific invite to it, if so let one of the folks here know (Bill or Lars)  
+You may need a specific invite to it, if so let one of the folks here know 
 
 There is an associated mailing list hosted by the MOC: Operate-first-users https://chat.google.com/room/AAAAAYpDdc8
 Open Infrastructure Labs also has a mailing list: Openinfralabs http://lists.opendev.org/cgi-bin/mailman/listinfo/openinfralabs
@@ -45,9 +45,9 @@ You can view a dashboard in the OI Labs github to see an overview of what’s ha
 
 ### Bring your project
 
-To get connected and bring your project to the MOC, first bring it to the “MOC Operate First Project Coordination meeting”, which is held on alternate Wednesday’s 8AM US Eastern time. Contact Bill Burns for an invite (bburns@redhat.com).
+To get connected and bring your project to the MOC, first bring it to the “MOC Operate First Project Coordination meeting”, which is held on alternate Wednesday’s 8AM US Eastern time. (even numbered weeks for 2020) Meeting url: https://meet.google.com/kea-qtds-enp?authuser=0&hs=122.
 
-There is another bi-weekly meeting that shares the same time slot, called “MOC/ODH sprint planning” and it is primarily focused on planning the activities involving the fundamentals of the cloud environment. It is run by Lars Kellogg-Stedman (lars@redhat.com). Contact him to get on the invite once you are committed to joining.
+There is another bi-weekly meeting that shares the same time slot, called “MOC/ODH sprint planning” and it is primarily focused on planning the activities involving the fundamentals of the cloud environment. (Odd numbered weeks for 2021) Meeting url: https://meet.google.com/xeg-usjr-sau?authuser=0&hs=122
 
 More detailed information on onboarding to a cluster can be found here: https://www.operate-first.cloud/users/support/docs/onboarding_to_cluster.md
 
