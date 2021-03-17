@@ -51,3 +51,4 @@ There is another bi-weekly meeting that shares the same time slot, called “MOC
 
 More detailed information on onboarding to a cluster can be found here: https://www.operate-first.cloud/users/support/docs/onboarding_to_cluster.md
 
+Projects are expected to create document here with a brief description of the project and limks to their repo.
