@@ -12,27 +12,9 @@ If you are interested in bringing your project to the Operate First Environment 
 
 3. The Mass Open Cloud (MOC) is the production cloud resource where projects are run.
 
-### First off - understand the environment
-
-There are a few basic things that need to be understood about the Operate First environment at the MOC:
-
-- Operate First is an open source initiative. It’s about operating your project software in the open in a production cloud environment.
-
-- Operating at the MOC never implies that any feature or software will ship. Thus a new feature that is being considered can be tested without any implied commitment.
-
-- Open Infrastructure Labs is an open source upstream aimed at cloud providers and operators and that is where much of the operate first work is being done. 
-
-- While a production cloud, the MOC is taking in pre-release software, and thus stability is not guaranteed, and should not be expected. No backup of user data is made. There is no SLA.
-
-- It’s free, but the cost is commitment. The MOC is not a place to bring a project and then leave. It’s expected that the developers will actively participate with the operators whenever needed and be available to help sort out issues.
-
-- The benefit to project developers is bridging back what’s learned to improve their project. 
-
-- Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
-
 ### Observing
 
-Projects are expected to work with the ops team in the open in github https://github.com/open-infrastructure-labs
+Projects are expected to work with the ops team in the open in github https://github.com/operate-first
 There is also work done to manage the infrastructure that can be found in the Open Infrastructure Labs project https://github.com/open-infrastructure-labs
 
 To see what’s happening right now, chat is done on google chat in a room called “Operate First Ops”. 
@@ -52,3 +34,22 @@ There is another bi-weekly meeting that shares the same time slot, called “MOC
 More detailed information on onboarding to a cluster can be found here: https://www.operate-first.cloud/users/support/docs/onboarding_to_cluster.md
 
 Projects are expected to create document here with a brief description of the project and limks to their repo.
+
+### Understanding the environment
+
+There are a few basic things that need to be understood about the Operate First environment at the MOC:
+
+- Operate First is an open source initiative. It’s about operating your project software in the open in a production cloud environment.
+
+- Operating at the MOC never implies that any feature or software will ship. Thus a new feature that is being considered can be tested without any implied commitment.
+
+- Open Infrastructure Labs is an open source upstream aimed at cloud providers and operators and that is where much of the operate first work is being done. 
+
+- While a production cloud, the MOC is taking in pre-release software, and thus stability is not guaranteed, and should not be expected. No backup of user data is made. There is no SLA.
+
+- It’s free, but the cost is commitment. The MOC is not a place to bring a project and then leave. It’s expected that the developers will actively participate with the operators whenever needed and be available to help sort out issues.
+
+- The benefit to project developers is bridging back what’s learned to improve their project. 
+
+- Also, projects need to agree that telemetry can be freely harvested from the cloud. It’s purpose is to help evolve open source cloud operations and it extends to building AI Ops tooling.
+
